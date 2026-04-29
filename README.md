@@ -8,7 +8,8 @@ Atividade realizada no bootcamp da DIO.
 # Link da ferramenta: https://notebooklm.google.com/
 
 -----------------------------------------------------------------------------
-Contexto e Objetivos
+# Contexto e Objetivos
+
 O assunto central deste caderno é o domínio de fundamentos técnicos essenciais para um Consultor de Dados. Em um cenário de megadados, é vital entender como transformar dados brutos em decisões acionáveis.
 
 Objetivos de Estudo:
@@ -41,10 +42,13 @@ Nesta seção, documento como interagi com a IA para extrair a melhor síntese d
 
 # Variações de Prompts Testadas:
 Prompt 1 (Geral): "Resuma os arquivos." -> Resultado: Muito superficial.
+<img width="993" height="780" alt="image" src="https://github.com/user-attachments/assets/b44c803a-76bc-4292-b335-a546f8643f6a" />
 
-Prompt 2 (Estruturado): "Atue como um Professor de Ciência de Dados. Com base nas fontes, crie uma comparação técnica entre dados estruturados e não estruturados." -> Resultado: Ótima distinção técnica.
+Prompt 2 (Estruturado): "Atue como um especialista em Ciência de Dados. Com base nas fontes, crie uma comparação técnica entre dados estruturados e não estruturados." -> Resultado: Ótima distinção técnica.
+<img width="985" height="772" alt="image" src="https://github.com/user-attachments/assets/57e05115-fc54-4208-834b-65ac6fa6c672" />
 
 Prompt 3 (Refinamento): "Explique a diferença entre método e algoritmo usando o exemplo de estourar pipoca mencionado na aula." -> Resultado: Gerou o insight perfeito para o glossário.
+<img width="980" height="778" alt="image" src="https://github.com/user-attachments/assets/e50d997b-455e-4c01-a8ba-a69b8d8af425" />
 
 Dificuldades e Troubleshooting:
 Dificuldade: A IA inicialmente confundiu a sintaxe de C com a de Python ao ler as gravações das aulas.
