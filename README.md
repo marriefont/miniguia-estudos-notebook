@@ -63,6 +63,8 @@ Análise Exploratória (EDA): A importância de consultar o pesquisador original
 
 Visualização: O uso de gráficos de linhas para tendências temporais e histogramas para distribuições.
 
+-------------------------------------------------------------------------------
+
 # Glossário
 Algoritmo: Conjunto de passos finitos (ex: a receita para estourar pipoca).
 
@@ -73,9 +75,9 @@ Dados Estruturados: Dados organizados em instâncias e atributos (tabelas).
 Interpretação vs Compilação: Diferença fundamental entre a execução do Python e da linguagem C.
 
 # Prompts Reutilizáveis para Revisão
-Plaintext
+
 "Com base no meu caderno de Fundamentos em Ciência de Dados, gere 5 perguntas de múltipla escolha para testar meu conhecimento sobre o GroupBy do Pandas."
-Plaintext
+
 "Crie um resumo de 1 parágrafo explicando por que Python é preferível a C para análise de grandes volumes de dados."
 
 -------------------------------------------------------------------------------
